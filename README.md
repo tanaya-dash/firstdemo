@@ -1,3 +1,2 @@
 # firstdemo
-This is my first repository
-Author-Tanaya
+This is my first repository<br>Author-Tanaya
